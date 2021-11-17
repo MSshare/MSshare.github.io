@@ -80,6 +80,13 @@ CUDA的提出大大加快了深度学习算力提升的进程。
 
 ![image](https://user-images.githubusercontent.com/71391924/142208311-b22d5c61-1c83-433f-b3f1-5ddc604cdcf5.png)
 
+### 2.2 求导
+
+![image](https://user-images.githubusercontent.com/71391924/142208580-090598f4-99e5-446d-9488-38128907fda7.png)
+
+### 2.3 梯度
+
+![image](https://user-images.githubusercontent.com/71391924/142208747-89314e3c-58ab-484e-91ae-f336f3d937ae.png)
 
 
 

@@ -66,9 +66,14 @@ CUDA的提出大大加快了深度学习算力提升的进程。
 
 ### 2.1 线性代数
 
-
-![image](https://user-images.githubusercontent.com/71391924/142207630-61479a74-ece5-4a58-a40c-0e049aa7d028.png)
-
+-张量：就像向量是标量的推⼴，矩阵是向量的推⼴⼀样，我们可以构建具有更多轴的数据结构。
+-矩阵A和B的哈达玛积为：
+![image](https://user-images.githubusercontent.com/71391924/142207940-e69e5282-d697-481c-b597-e789add7a9f8.png)
+-矩阵乘法：
+![image](https://user-images.githubusercontent.com/71391924/142208072-72a9532f-e25a-4c2b-9d55-ef2965f963ff.png)
+-范数：线性代数中最有⽤的⼀些运算符是范数（norm）。⾮正式地说，⼀个向量的范数告诉我们⼀个向量有多⼤。这
+⾥考虑的⼤小（size）概念不涉及维度，而是分量的⼤小。
+![image](https://user-images.githubusercontent.com/71391924/142208311-b22d5c61-1c83-433f-b3f1-5ddc604cdcf5.png)
 
 
 

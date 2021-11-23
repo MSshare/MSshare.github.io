@@ -9,6 +9,7 @@ M‑P神经元（一个用来模拟生物行为的数学模型）：接收n个�
 ![image](https://user-images.githubusercontent.com/71391924/143015958-3d8c078b-b11f-41ee-a5d0-f412a407acda.png)
 
 单个M‑P神经元：感知机（ 作激活函数）、对数几率回归（ 作激活函数）
+
 多个M‑P神经元：神经网络
 
 ## 2 感知机
